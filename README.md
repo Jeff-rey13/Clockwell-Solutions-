@@ -8,7 +8,8 @@ Staff clock in with a selfie and their location in under ten seconds.
 HR sees who is in, approves requests and fixes mistakes from a phone.
 Owners get honest records without buying a single machine.
 
-**[Live pilot: clockwell-rose.vercel.app](https://clockwell-rose.vercel.app)** · Built for Singapore and Malaysia · Works on any phone
+**[Live pilot: clockwell-rose.vercel.app](https://clockwell-rose.vercel.app)** · Built for Startups and Small scale companies  · Works on any phone
+Maintenance in progress
 
 `Status: pilot · Phases 1 to 4 complete · Taking on pilot companies`
 
